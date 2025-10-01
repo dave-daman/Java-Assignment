@@ -1,0 +1,15 @@
+John Doe - Deposited: 2000.0 | Balance: 7000.0
+John Doe - Withdrawn: 1000.0 | Balance: 6000.0
+John Doe - Failed Withdrawal: 8000.0 | Balance: 6000.0
+John Doe - Deposited: 2000.0 | Balance: 7000.0
+John Doe - Withdrawn: 1000.0 | Balance: 6000.0
+John Doe - Failed Withdrawal: 8000.0 | Balance: 6000.0
+John Doe - Deposited: 2000.0 | Balance: 7000.0
+John Doe - Withdrawn: 1000.0 | Balance: 6000.0
+John Doe - Failed Withdrawal: 8000.0 | Balance: 6000.0
+John Doe - Deposited: 2000.0 | Balance: 9000.0
+John Doe - Withdrawn: 1000.0 | Balance: 8000.0
+John Doe - Withdrawn: 8000.0 | Balance: 0.0
+John Doe - Deposited: 2000.0 | Balance: 6000.0
+John Doe - Withdrawn: 1000.0 | Balance: 5000.0
+John Doe - Failed Withdrawal: 8000.0 | Balance: 5000.0
